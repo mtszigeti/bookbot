@@ -39,6 +39,4 @@ def get_book_text(path):
 def sort_on(letters):
     return letters["num"]
 
-
-
 main()
